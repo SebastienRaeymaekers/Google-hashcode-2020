@@ -1,0 +1,4 @@
+- at least: total_books/books_a_day => to fill all days.
+- more books a day = better.
+
+ total_books/total_score
